@@ -59,11 +59,3 @@ Currently diving deeper into **computer networks**, **software engineering princ
 
 </div>
 
----
-
-## 🌐 Connect with me  
-📩 [Your Email Here]  
-💼 [LinkedIn Profile Here]  
-📱 [Telegram / Portfolio Link]  
-
----
