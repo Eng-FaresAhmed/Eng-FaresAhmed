@@ -9,7 +9,7 @@
 
 ## 👋 Hi, I'm Fares Ahmed  
 
-🎓 Computer Science student at **Cairo University**  
+🎓 Faculty of Computers and Artificial Intelligence at **Cairo University**  
 💻 Passionate about **Programming & Artificial Intelligence**  
 ⚡ Skilled in **C++** and **Python**  
 📚 Completed **Huawei AI Course (HCI)**  
