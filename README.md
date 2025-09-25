@@ -30,16 +30,22 @@
 ---
 
 ## 📚 Currently Learning  
-- Fundamentals of Artificial Intelligence  
-- Data Structures & Algorithms  
-- Modern Software Development Practices  
+Currently diving deeper into **computer networks**, **software engineering principles (OOP)**, **optimization methods**, and **algorithms & data management**, along with exploring **web development**.  
+
+---
+
+## 💡 Interests  
+- Artificial Intelligence & Machine Learning  
+- Web Development  
+- Software Engineering & Problem Solving  
 
 ---
 
 ## 🎯 Future Goals  
-- Contribute to **open-source AI projects**  
-- Build impactful software solutions  
-- Deep dive into **Machine Learning & Data Science**  
+- Apply my programming skills in **AI-driven applications**  
+- Build solid projects in **web development**  
+- Contribute to **open-source communities**  
+- Strengthen expertise in **algorithms and optimization**  
 
 ---
 
